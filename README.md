@@ -1,2 +1,3 @@
-# wallet
-Wallet Windows and linux tokcoin 
+# Wallet Project Tokcoin
+
+Wallet Windows and linux 
